@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_message">
+    <sys_ui_message action="INSERT_OR_UPDATE">
+        <application/>
+        <code/>
+        <commented_message/>
+        <key>Repository authentication failed, check credentials. Make sure the user has both read and write access</key>
+        <language>en</language>
+        <message>Repository authentication failed, check credentials. Make sure the user has both read and write access</message>
+        <sys_class_name>sys_ui_message</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-29 05:06:56</sys_created_on>
+        <sys_id>76f96db1c3109a1449d1509f0501313f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Repository authentication failed, check credentials. Make sure the user has both read and write access</sys_name>
+        <sys_package display_value="CICD Github Test" source="x_aono_cicd_github">d245c229c3501a1449d1509f05013148</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CICD Github Test">d245c229c3501a1449d1509f05013148</sys_scope>
+        <sys_update_name>sys_ui_message_76f96db1c3109a1449d1509f0501313f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-29 05:06:56</sys_updated_on>
+    </sys_ui_message>
+</record_update>
